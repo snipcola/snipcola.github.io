@@ -1035,7 +1035,11 @@ div[aria-label="Online"] rect {
 .pill-3pRQlO,
 .container-JhuCwn,
 .mainCard-3KBsBI,
-.button-DAkLIy.button-f2h6uQ.lookBlank-21BCro {
+.button-DAkLIy.button-f2h6uQ.lookBlank-21BCro,
+.header-3OsQeK,
+.settingCard-xZSDjS,
+.sidebarScrollable-2mW9Ls .scroller-3_YDR2,
+.group-LWHoGI {
     border-radius: var(--border-radius) !important;
     overflow: hidden !important;
 }
@@ -1105,7 +1109,8 @@ div[aria-label="Online"] rect {
 .messageInputContainer-2rGDH8,
 .container-JhuCwn,
 .mainCard-3KBsBI,
-.button-DAkLIy.button-f2h6uQ.lookBlank-21BCro {
+.button-DAkLIy.button-f2h6uQ.lookBlank-21BCro,
+.group-LWHoGI {
     background-color: rgb(var(--secondary-dark)) !important;
     border: 1px solid rgb(var(--secondary-light)) !important;
 }
@@ -1118,7 +1123,8 @@ div[aria-label="Online"] rect {
 .previewContainer-1GxmBJ,
 .moreSubscribers-2FZuij,
 .category-2OvQ93,
-.buttonInner-3aRbcx {
+.buttonInner-3aRbcx,
+.sidebarScrollable-2mW9Ls .scroller-3_YDR2 {
     background-color: rgb(var(--secondary-dark)) !important;
 }
 
@@ -1163,7 +1169,8 @@ div[aria-label="Online"] rect {
 .pill-3pRQlO,
 .resizeHandle-PBRzPC,
 .content-1SgpWY,
-.divider-AZrXIA {
+.divider-AZrXIA,
+.cardContent-1-5hym {
     background-color: rgb(var(--bg)) !important;
 }
 
@@ -1185,7 +1192,8 @@ div[aria-label="Online"] rect {
 .checklistItem-1gWPPD,
 .previewContainer-29oeA6,
 .matchingPostsRow-2IiEQ1,
-.iconWrapper-3FqQ75 {
+.iconWrapper-3FqQ75,
+.cardFolder-3H4uH4 {
     background-color: rgb(var(--secondary-dark)) !important;
 }
 
@@ -1243,4 +1251,9 @@ div[aria-label="Online"] rect {
 
 .button-DAkLIy.button-f2h6uQ.lookBlank-21BCro:hover, .button-DAkLIy.button-f2h6uQ.lookBlank-21BCro:hover .buttonInner-3aRbcx {
     background-color: rgb(var(--secondary)) !important;
+}
+
+.sidebarScrollable-2mW9Ls .scroller-3_YDR2 {
+    padding: var(--default-margin) !important;
+    margin-right: 2rem !important;
 }
