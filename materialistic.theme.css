@@ -1060,7 +1060,8 @@ div[aria-label="Online"] rect {
 .role-1adzi2,
 .giftCodeContainer-3ObH0O .tile-2mmK5T,
 .container-3i3IzO,
-.reaction-3vwAF2 {
+.reaction-3vwAF2,
+.botTag-1NoD0B {
     border-radius: var(--border-radius) !important;
     overflow: hidden !important;
 }
@@ -1138,7 +1139,8 @@ div[aria-label="Online"] rect {
 .spoilerText-27bIiA,
 .giftCodeContainer-3ObH0O .tile-2mmK5T,
 .container-3i3IzO,
-.reaction-3vwAF2 {
+.reaction-3vwAF2,
+.botTag-1NoD0B {
     background-color: rgb(var(--secondary-dark)) !important;
     border: 1px solid rgb(var(--secondary-light)) !important;
 }
@@ -1260,7 +1262,7 @@ div[aria-label="Online"] rect {
     background-color: rgb(var(--secondary)) !important;
 }
 
-.defaultValue-19SZ-q .markValue-2U_-UG, .channelSettingButtons-sCQ_2T button {
+.defaultValue-19SZ-q .markValue-2U_-UG, .channelSettingButtons-sCQ_2T button, .buttons-BK5gED .buttonInner-3aRbcx {
     color: rgb(var(--secondary)) !important;
 }
 
