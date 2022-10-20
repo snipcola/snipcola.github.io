@@ -1046,7 +1046,8 @@ div[aria-label="Online"] rect {
 .avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L,
 .profileBadges-31rDHI,
 .spoilerText-27bIiA,
-.emptyChannelIcon-1YdEz2 {
+.emptyChannelIcon-1YdEz2,
+.role-1adzi2{
     border-radius: var(--border-radius) !important;
     overflow: hidden !important;
 }
@@ -1233,7 +1234,7 @@ div[aria-label="Online"] rect {
     background-color: rgb(var(--secondary)) !important;
 }
 
-.defaultValue-19SZ-q .markValue-2U_-UG {
+.defaultValue-19SZ-q .markValue-2U_-UG, .channelSettingButtons-sCQ_2T button {
     color: rgb(var(--secondary)) !important;
 }
 
