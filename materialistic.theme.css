@@ -1,3 +1,13 @@
+/**
+ * @name Materialistic
+ * @author Snipcola
+ * @version 1.0.0
+ * @description Theme based on the React Material UI library.
+ * @source https://github.com/snipcola/snipcola.github.io
+ * @invite snipcola
+ * @authorId 126870350507147264
+*/
+
 :root {
     --bg: 10, 25, 41;
     --bg-dark: 0, 30, 60;
