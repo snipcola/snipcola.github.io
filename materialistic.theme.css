@@ -1220,7 +1220,7 @@ div[aria-label="Online"] rect {
     background-color: rgb(var(--secondary-dark)) !important;
 }
 
-.wrapper-2fEmwW .total-1c5KCN {
+.wrapper-2fEmwW .total-1c5KCN::after {
     border-right-color: rgb(var(--secondary-dark)) !important;
 }
 
