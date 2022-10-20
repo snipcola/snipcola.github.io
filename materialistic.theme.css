@@ -1133,6 +1133,10 @@ div[aria-label="Online"] rect {
     border: 1px solid rgb(var(--secondary-light)) !important;
 }
 
+.reactionMe-1PwQAc {
+    background-color: rgba(var(--secondary), .25) !important;
+}
+
 .guildSubscriptionSlots-1i_C21,
 .bd-description-wrap,
 .bd-footer,
