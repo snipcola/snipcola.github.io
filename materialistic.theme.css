@@ -1300,6 +1300,6 @@ div[aria-label="Online"] rect {
     background-color: rgba(var(--secondary), 0.5) !important;
 }
 
-.item-1OdjEX.colorDefault-CDqZdO.hideInteraction-2jPGL_ {
+.item-1OdjEX.colorDefault-CDqZdO.hideInteraction-2jPGL_, .replying-eZ7p5z:before {
     display: none !important;
 }
