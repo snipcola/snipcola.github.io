@@ -1061,7 +1061,8 @@ div[aria-label="Online"] rect {
 .giftCodeContainer-3ObH0O .tile-2mmK5T,
 .container-3i3IzO,
 .reaction-3vwAF2,
-.botTag-1NoD0B {
+.botTag-1NoD0B,
+.itemCard-3Etziu .body-16rSsp {
     border-radius: var(--border-radius) !important;
     overflow: hidden !important;
 }
