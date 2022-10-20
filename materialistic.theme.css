@@ -290,7 +290,7 @@ div[aria-label="Online"] rect {
 }
 
 .member-2gU6Ar, .layout-1qmrhw {
-    background-color: rgb(var(--secondary-dark)) !important;
+    background-color: transparent !important;
     transition: background-color .1s !important;
     border-radius: var(--border-radius) !important;
 }
@@ -1039,7 +1039,13 @@ div[aria-label="Online"] rect {
 .header-3OsQeK,
 .settingCard-xZSDjS,
 .sidebarScrollable-2mW9Ls .scroller-3_YDR2,
-.group-LWHoGI {
+.group-LWHoGI,
+.systemMessageContainer-3F3V9U,
+.mention,
+.botTag-2mryIa,
+.avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L,
+.profileBadges-31rDHI,
+.spoilerText-27bIiA {
     border-radius: var(--border-radius) !important;
     overflow: hidden !important;
 }
@@ -1110,7 +1116,11 @@ div[aria-label="Online"] rect {
 .container-JhuCwn,
 .mainCard-3KBsBI,
 .button-DAkLIy.button-f2h6uQ.lookBlank-21BCro,
-.group-LWHoGI {
+.group-LWHoGI,
+.systemMessageContainer-3F3V9U,
+.botTag-2mryIa,
+.profileBadges-31rDHI,
+.spoilerText-27bIiA {
     background-color: rgb(var(--secondary-dark)) !important;
     border: 1px solid rgb(var(--secondary-light)) !important;
 }
@@ -1193,8 +1203,20 @@ div[aria-label="Online"] rect {
 .previewContainer-29oeA6,
 .matchingPostsRow-2IiEQ1,
 .iconWrapper-3FqQ75,
-.cardFolder-3H4uH4 {
+.cardFolder-3H4uH4,
+.role-1adzi2,
+.divider-IqmEqJ .content-3spvdd,
+.unreadPill-3nEWYM,
+.avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L:hover {
     background-color: rgb(var(--secondary-dark)) !important;
+}
+
+.divider-IqmEqJ {
+    border-color: rgb(var(--secondary-dark)) !important;
+}
+
+.unreadPillCap-2-iI4h path, .unreadPillCap-2-iI4h {
+    fill: rgb(var(--secondary-dark)) !important;
 }
 
 .premiumTab-39eQzY .premiumLabel-3HPvdB.selected-2Uns2B {
@@ -1205,7 +1227,7 @@ div[aria-label="Online"] rect {
     display: none !important;
 }
 
-.barFill-2Bh7CX, .bd-switch-checked .bd-switch-body, .pinIcon-zVODC5 {
+.barFill-2Bh7CX, .bd-switch-checked .bd-switch-body, .pinIcon-zVODC5, .numberBadge-37OJ3S {
     background-color: rgb(var(--secondary)) !important;
 }
 
@@ -1256,4 +1278,21 @@ div[aria-label="Online"] rect {
 .sidebarScrollable-2mW9Ls .scroller-3_YDR2 {
     padding: var(--default-margin) !important;
     margin-right: 2rem !important;
+}
+
+.modeMuted-2T4MDZ {
+    opacity: 75% !important;
+}
+
+.mention {
+    color: rgb(var(--secondary)) !important;
+    background-color: rgba(var(--secondary), 0.25) !important;
+}
+
+.mention:hover {
+    background-color: rgba(var(--secondary), 0.5) !important;
+}
+
+.item-1OdjEX.colorDefault-CDqZdO.hideInteraction-2jPGL_ {
+    display: none !important;
 }
