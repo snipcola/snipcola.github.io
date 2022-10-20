@@ -1187,7 +1187,8 @@ div[aria-label="Online"] rect {
 .resizeHandle-PBRzPC,
 .content-1SgpWY,
 .divider-AZrXIA,
-.cardContent-1-5hym {
+.cardContent-1-5hym,
+.wrapper-2fEmwW .users-2JoyGL{
     background-color: rgb(var(--bg)) !important;
 }
 
@@ -1214,8 +1215,13 @@ div[aria-label="Online"] rect {
 .role-1adzi2,
 .divider-IqmEqJ .content-3spvdd,
 .unreadPill-3nEWYM,
-.avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L:hover {
+.avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L:hover,
+.wrapper-2fEmwW .total-1c5KCN {
     background-color: rgb(var(--secondary-dark)) !important;
+}
+
+.wrapper-2fEmwW .total-1c5KCN {
+    border-right-color: rgb(var(--secondary-dark)) !important;
 }
 
 .divider-IqmEqJ {
