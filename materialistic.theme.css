@@ -1045,7 +1045,8 @@ div[aria-label="Online"] rect {
 .botTag-2mryIa,
 .avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L,
 .profileBadges-31rDHI,
-.spoilerText-27bIiA {
+.spoilerText-27bIiA,
+.emptyChannelIcon-1YdEz2 {
     border-radius: var(--border-radius) !important;
     overflow: hidden !important;
 }
@@ -1134,7 +1135,8 @@ div[aria-label="Online"] rect {
 .moreSubscribers-2FZuij,
 .category-2OvQ93,
 .buttonInner-3aRbcx,
-.sidebarScrollable-2mW9Ls .scroller-3_YDR2 {
+.sidebarScrollable-2mW9Ls .scroller-3_YDR2,
+.emptyChannelIcon-1YdEz2 {
     background-color: rgb(var(--secondary-dark)) !important;
 }
 
